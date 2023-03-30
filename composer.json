@@ -1,0 +1,19 @@
+{
+    "name": "andrelanger/mariadb2obsidianmarkdown",
+    "description": "A tool that converts MariaDB tables into Obsidian Markdown files with corresponding links, allowing for flexible and organized note-taking based on the relationships between the data.",
+    "type": "project",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Andrelanger\\Mariadb2obsidianmarkdown\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "AndreLanger",
+            "email": "ALangerWebDev@gmail.com"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {}
+}
