@@ -5,7 +5,7 @@
     "license": "MIT",
     "autoload": {
         "psr-4": {
-            "Andrelanger\\Mariadb2obsidianmarkdown\\": "src/"
+            "Andrelanger\\MariaDB2ObsidianMarkdown\\": "src/"
         }
     },
     "authors": [
